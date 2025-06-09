@@ -1,0 +1,23 @@
+page background - bg-gradient-to-br from-black via-gray-900 to-gray-950
+
+input:
+card background - bg-gray-800
+card border - border-gray-700
+input field - bg-gray-700, text-white, placeholder-gray-400
+button:
+normal - bg-purple-600
+hover - bg-purple-700
+
+todo items:
+Done Task Background: bg-gradient-to-r from-green-700 to-green-900
+Done Task Border: border-green-600
+Done Text: text-green-200
+Done Icon: text-green-300
+Pending Task Background: bg-gray-900
+Pending Task Border: border-gray-600
+Pending Text: text-white
+Pending Icon: text-purple-400
+
+Delete icon: 
+Normal: text-red-400
+Hover: hover:text-red-500
